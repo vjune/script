@@ -12,8 +12,6 @@ EXECUTE THESE COMMANDS AS ROOT (sudo su COMMAND FIRST):
 
 3. wget https://raw.githubusercontent.com/vjune/wrap.php.txt/master/wrap.php.txt
 
-http://lb.geek.rs.ba/wrap.php.txt
-
 4. php wrap.php.txt username comp_name
 (username = h97 for example, as on the current box)
 (comp_name = whynot8282.470 example, as on the current box)
